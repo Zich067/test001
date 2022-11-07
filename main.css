@@ -1,3 +1,18 @@
-body{
-    color: red;
+header{
+    height: 250px;
+    background-image: url(https://tour.taitung.gov.tw/image/26555/1024x768);
+    background-size: cover;
+    background-position: center center;
+}
+
+header h1{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+header h2{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
 }
